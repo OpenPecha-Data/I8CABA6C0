@@ -1,0 +1,106 @@
+id: ab077aec990449f0a134c4e236672b7f
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  46db188ada16455c94df06cec3b7b50f:
+    span:
+      start: 0
+      end: 630
+    imgnum: 1
+    reference: I3MS12560001.tif
+  d75aa21dc990449584a7d29417dbb6db:
+    span:
+      start: 631
+      end: 661
+    imgnum: 3
+    reference: I3MS12560003.jpg
+  5919e14c3e5a42b1addc401ec18685cb:
+    span:
+      start: 662
+      end: 987
+    imgnum: 4
+    reference: I3MS12560004.jpg
+  00b2af24b2bf43d9bd9520f41683ed9c:
+    span:
+      start: 988
+      end: 1330
+    imgnum: 5
+    reference: I3MS12560005.jpg
+  eb6b1bce10c14328a1c4894029ed2e65:
+    span:
+      start: 1331
+      end: 1758
+    imgnum: 6
+    reference: I3MS12560006.jpg
+  33a56d45875c44769512d695013d33d3:
+    span:
+      start: 1759
+      end: 2148
+    imgnum: 7
+    reference: I3MS12560007.jpg
+  cf7b96aef67b483d9b2886750d055abc:
+    span:
+      start: 2149
+      end: 2571
+    imgnum: 8
+    reference: I3MS12560008.jpg
+  39d60701bd364c018509a0db6c2c289c:
+    span:
+      start: 2572
+      end: 2951
+    imgnum: 9
+    reference: I3MS12560009.jpg
+  219b475700ee4b5ca8f30e1c2f150d2d:
+    span:
+      start: 2952
+      end: 3357
+    imgnum: 10
+    reference: I3MS12560010.jpg
+  95f5ab653b424860bde6fe4e9752e4a3:
+    span:
+      start: 3358
+      end: 3731
+    imgnum: 11
+    reference: I3MS12560011.jpg
+  d033c3abe1924c4a82fc01d931f6c270:
+    span:
+      start: 3732
+      end: 4092
+    imgnum: 12
+    reference: I3MS12560012.jpg
+  8b20644c24934187953f84baad56db94:
+    span:
+      start: 4093
+      end: 4129
+    imgnum: 13
+    reference: I3MS12560013.jpg
+  31b85adcb09240b8b70665fc6340ab9d:
+    span:
+      start: 4130
+      end: 4340
+    imgnum: 15
+    reference: I3MS12560015.jpg
+  0002a78533d64352ba623735df6dc716:
+    span:
+      start: 4341
+      end: 4756
+    imgnum: 16
+    reference: I3MS12560016.jpg
+  b2d92b1d5fad456abd416e4a4b44b598:
+    span:
+      start: 4757
+      end: 5122
+    imgnum: 17
+    reference: I3MS12560017.jpg
+  18549d8145b045a1aeb100a3e87cfab1:
+    span:
+      start: 5123
+      end: 5480
+    imgnum: 18
+    reference: I3MS12560018.jpg
+  01e77a57c7124aa2bdcb9b759e633e37:
+    span:
+      start: 5481
+      end: 5731
+    imgnum: 19
+    reference: I3MS12560019.jpg

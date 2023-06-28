@@ -1,0 +1,95 @@
+id: 01c9e383d8bd47269abbed008cc3d20e
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  397a352a13c2465abcb4cf3234386c31:
+    span:
+      start: 89
+      end: 90
+    confidence: 0.7659058
+  da6bfb45933c439d944850fac385c3d1:
+    span:
+      start: 372
+      end: 374
+    confidence: 0.6541179
+  9b7b3557c35a4ba79289c12352620dae:
+    span:
+      start: 399
+      end: 401
+    confidence: 0.7260387
+  0a71b636a2a74f0a9acf094f695bfaab:
+    span:
+      start: 410
+      end: 412
+    confidence: 0.67951196
+  026e1444596a41bebb5e7e87c85dccea:
+    span:
+      start: 820
+      end: 825
+    confidence: 0.67699276
+  6ab6a50bf0c44661b0e57671a42013fa:
+    span:
+      start: 916
+      end: 920
+    confidence: 0.76699144
+  78984fa577da497c9dfcb197dca3d524:
+    span:
+      start: 956
+      end: 959
+    confidence: 0.79364544
+  b96b81d02cab41eebba583e9ea345123:
+    span:
+      start: 985
+      end: 987
+    confidence: 0.79564476
+  690cb8feb88b4a85a7cab10dab8208fe:
+    span:
+      start: 1123
+      end: 1128
+    confidence: 0.78936815
+  0a40eff56d63402abc79208bad1f00f9:
+    span:
+      start: 1180
+      end: 1182
+    confidence: 0.7150393
+  1456d007bb5749858b56d7f94d2e75d3:
+    span:
+      start: 1276
+      end: 1279
+    confidence: 0.5840456
+  42437868f5a3407bb093031095977bc0:
+    span:
+      start: 1305
+      end: 1306
+    confidence: 0.74632084
+  815fac0c5746475a85e5715e6b815474:
+    span:
+      start: 1328
+      end: 1331
+    confidence: 0.7485567300000001
+  3ef82c1095d34f2785b85fd62327ecf3:
+    span:
+      start: 1347
+      end: 1352
+    confidence: 0.6964412799999999
+  07681befd3c649c4af2e80c22335d38f:
+    span:
+      start: 1358
+      end: 1361
+    confidence: 0.71719587
+  9b41da06c76044f4bf8d8e9ab394611a:
+    span:
+      start: 1434
+      end: 1438
+    confidence: 0.7861045
+  f91f6494533f49d988898982b0a33c9f:
+    span:
+      start: 1439
+      end: 1453
+    confidence: 0.7325235685714286
+  9f025e0025e34542baa826626589eb83:
+    span:
+      start: 1478
+      end: 1484
+    confidence: 0.7884357
+confidence_threshold: 0.8

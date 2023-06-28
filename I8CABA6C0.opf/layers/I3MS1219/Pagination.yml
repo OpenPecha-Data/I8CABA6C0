@@ -1,0 +1,94 @@
+id: 4533a0c130144699b1551e75777b08b7
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  3bb1604dff7d43c09bf96abe6d248005:
+    span:
+      start: 0
+      end: 629
+    imgnum: 1
+    reference: I3MS12190001.tif
+  40a012f6242a4023978f1e026e62afee:
+    span:
+      start: 630
+      end: 680
+    imgnum: 3
+    reference: I3MS12190003.jpg
+  d5c6ae58d4574be2b674b35cf709cc12:
+    span:
+      start: 681
+      end: 905
+    imgnum: 4
+    reference: I3MS12190004.jpg
+  663b57cc806247579416829f44cdb779:
+    span:
+      start: 906
+      end: 1057
+    imgnum: 5
+    reference: I3MS12190005.jpg
+  3da94ede3bc54168ab58f7b89af930d2:
+    span:
+      start: 1058
+      end: 1481
+    imgnum: 6
+    reference: I3MS12190006.jpg
+  c8988637c2ff457aa19b10a4131eae0a:
+    span:
+      start: 1482
+      end: 1905
+    imgnum: 7
+    reference: I3MS12190007.jpg
+  e5ece2d2721147368e39184194b54359:
+    span:
+      start: 1906
+      end: 2339
+    imgnum: 8
+    reference: I3MS12190008.jpg
+  0aead85aa7034fa08a8331d4b513fffd:
+    span:
+      start: 2340
+      end: 2734
+    imgnum: 9
+    reference: I3MS12190009.jpg
+  5bb4d80e88aa4968a9703f7a991a5ee2:
+    span:
+      start: 2735
+      end: 3135
+    imgnum: 10
+    reference: I3MS12190010.jpg
+  852071c1d6714885a551c66dbac7b1d7:
+    span:
+      start: 3136
+      end: 3521
+    imgnum: 11
+    reference: I3MS12190011.jpg
+  9a255153ad47438d91c0d7897e80ab69:
+    span:
+      start: 3522
+      end: 3898
+    imgnum: 12
+    reference: I3MS12190012.jpg
+  9cfa6e40b2074ca784926028f047a368:
+    span:
+      start: 3899
+      end: 4302
+    imgnum: 13
+    reference: I3MS12190013.jpg
+  4db4029e0c504c7689cb8839c5dec91b:
+    span:
+      start: 4303
+      end: 4696
+    imgnum: 14
+    reference: I3MS12190014.jpg
+  66069dbde3dc41a590cb4a36cc6e282a:
+    span:
+      start: 4697
+      end: 5067
+    imgnum: 15
+    reference: I3MS12190015.jpg
+  2a29c0ed51b24a71b9c44d3c62c45d4e:
+    span:
+      start: 5068
+      end: 5208
+    imgnum: 16
+    reference: I3MS12190016.jpg

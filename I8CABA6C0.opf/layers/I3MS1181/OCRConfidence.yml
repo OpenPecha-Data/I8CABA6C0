@@ -1,0 +1,105 @@
+id: 1358f50703324d12bf597d205eb56ffb
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  448e80d943f54ce98b03880d91fccf4b:
+    span:
+      start: 89
+      end: 90
+    confidence: 0.7659058
+  229b60820997496d8023a5de54d36ecf:
+    span:
+      start: 372
+      end: 374
+    confidence: 0.6541179
+  800c18838f7644aaa9ddd42c1b0fa10b:
+    span:
+      start: 399
+      end: 401
+    confidence: 0.7260387
+  f6850bb50f7f42319b05757f57f7dde3:
+    span:
+      start: 410
+      end: 412
+    confidence: 0.62900364
+  160e49a6b9dc4def86f8bb2003c3eb63:
+    span:
+      start: 476
+      end: 478
+    confidence: 0.66365695
+  079ca2472e294b0e8128c445c27fdbf9:
+    span:
+      start: 718
+      end: 723
+    confidence: 0.7909889
+  c0475424a3d44b27bde31596a98c6ff5:
+    span:
+      start: 1575
+      end: 1577
+    confidence: 0.7756341
+  19640e80a01f42279df0a7f82e74b310:
+    span:
+      start: 2291
+      end: 2294
+    confidence: 0.7916447999999999
+  40aa15ef3c574317b6324da959cc4d0b:
+    span:
+      start: 2551
+      end: 2554
+    confidence: 0.70659906
+  397101ec58e340fe8a4880c96f36ee7a:
+    span:
+      start: 2766
+      end: 2771
+    confidence: 0.6696128
+  af5ffc5ffbd74aa9a567f784803e59ed:
+    span:
+      start: 3150
+      end: 3153
+    confidence: 0.76891285
+  f9956fe0941749039a82ee4b9f7bfd9b:
+    span:
+      start: 3168
+      end: 3173
+    confidence: 0.7951676
+  cba33d8e2a0546f38610b0fa670f2f0b:
+    span:
+      start: 3210
+      end: 3214
+    confidence: 0.7723625
+  e87c48a6c7de4455a631a035c1d94206:
+    span:
+      start: 3631
+      end: 3636
+    confidence: 0.7759868
+  0aa8fe57e4f84152911706824e63f29c:
+    span:
+      start: 3716
+      end: 3719
+    confidence: 0.7916447999999999
+  928582c1b80d438fbd7aecc204160f28:
+    span:
+      start: 3973
+      end: 3974
+    confidence: 0.76013845
+  08c440accdce4545bbc7bd19b2ac78df:
+    span:
+      start: 4011
+      end: 4014
+    confidence: 0.72610605
+  7d0df899d98149e492788aa6e35a7bfc:
+    span:
+      start: 4306
+      end: 4309
+    confidence: 0.7621753
+  e49587b2a815464da353400f08cd9cfd:
+    span:
+      start: 4418
+      end: 4419
+    confidence: 0.48568952
+  5f95d1e3b8ae427384f16fb68938a5e9:
+    span:
+      start: 4997
+      end: 5002
+    confidence: 0.7916448
+confidence_threshold: 0.8

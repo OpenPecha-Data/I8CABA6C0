@@ -1,0 +1,202 @@
+id: 29bb4e4c324e455393d4ef5426b3e522
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  ec476248fbec4f8091b0ae73939d08cf:
+    span:
+      start: 0
+      end: 629
+    imgnum: 1
+    reference: I3MS11630001.tif
+  5affb3ac50db4f8797517aab25039262:
+    span:
+      start: 630
+      end: 699
+    imgnum: 3
+    reference: I3MS11630003.jpg
+  8fbe96ed09e9417f96510b6da21a0e58:
+    span:
+      start: 700
+      end: 1005
+    imgnum: 4
+    reference: I3MS11630004.jpg
+  1728620f29e14572a1cd676aa09ea962:
+    span:
+      start: 1006
+      end: 1272
+    imgnum: 5
+    reference: I3MS11630005.jpg
+  43b726f3acf945c19bd72ec0914d5bad:
+    span:
+      start: 1273
+      end: 1597
+    imgnum: 6
+    reference: I3MS11630006.jpg
+  4b50820a882043e7b1ac364e81262b1d:
+    span:
+      start: 1598
+      end: 1973
+    imgnum: 7
+    reference: I3MS11630007.jpg
+  5fe02f848421461ba401999848c97594:
+    span:
+      start: 1974
+      end: 2367
+    imgnum: 8
+    reference: I3MS11630008.jpg
+  8b8d0cab5b774c0cb77ef1a9b610edb7:
+    span:
+      start: 2368
+      end: 2770
+    imgnum: 9
+    reference: I3MS11630009.jpg
+  fdfbbb76674d442abfca97576c673f1d:
+    span:
+      start: 2771
+      end: 3190
+    imgnum: 10
+    reference: I3MS11630010.jpg
+  be9e2da91e40485e935d7b194fffdaea:
+    span:
+      start: 3191
+      end: 3570
+    imgnum: 11
+    reference: I3MS11630011.jpg
+  4918748ccf8248d1ac349c6d518f3c76:
+    span:
+      start: 3571
+      end: 3957
+    imgnum: 12
+    reference: I3MS11630012.jpg
+  8873a44f3c8d4f1285dc348fe8bc3b94:
+    span:
+      start: 3958
+      end: 4379
+    imgnum: 13
+    reference: I3MS11630013.jpg
+  a0225989a3bd4955afb5c9ac16dd3ee3:
+    span:
+      start: 4380
+      end: 4793
+    imgnum: 14
+    reference: I3MS11630014.jpg
+  aceee73caba24ae2b5a6c957e335b706:
+    span:
+      start: 4794
+      end: 5166
+    imgnum: 15
+    reference: I3MS11630015.jpg
+  fad58b2e663c4193afdf9945c9c00a6d:
+    span:
+      start: 5167
+      end: 5571
+    imgnum: 16
+    reference: I3MS11630016.jpg
+  2409000cb4ae4b4b9a01d05fb9bbfe31:
+    span:
+      start: 5572
+      end: 5949
+    imgnum: 17
+    reference: I3MS11630017.jpg
+  509eaa43c4cb442fa03de9596b3e67b3:
+    span:
+      start: 5950
+      end: 6288
+    imgnum: 18
+    reference: I3MS11630018.jpg
+  ffc5f6b14f1d46538f30b1ea624b798a:
+    span:
+      start: 6289
+      end: 6672
+    imgnum: 19
+    reference: I3MS11630019.jpg
+  ffafb6e9d5ad4aebaea184799c132fcc:
+    span:
+      start: 6673
+      end: 7064
+    imgnum: 20
+    reference: I3MS11630020.jpg
+  6e5c1e70728a4300b98ec2ed649ab052:
+    span:
+      start: 7065
+      end: 7507
+    imgnum: 21
+    reference: I3MS11630021.jpg
+  c3cd998f71e04511966f93d280de4afd:
+    span:
+      start: 7508
+      end: 7970
+    imgnum: 22
+    reference: I3MS11630022.jpg
+  9295cc7b9cc34025b1670adcca5e8bb7:
+    span:
+      start: 7971
+      end: 8414
+    imgnum: 23
+    reference: I3MS11630023.jpg
+  2d670c0d8bc74c8cbed3a4fe174fbe7e:
+    span:
+      start: 8415
+      end: 8866
+    imgnum: 24
+    reference: I3MS11630024.jpg
+  6b3ec84e7e0a437eaf61a081a27d7515:
+    span:
+      start: 8867
+      end: 9281
+    imgnum: 25
+    reference: I3MS11630025.jpg
+  5df365ff8edf4f35844518e9c95b68d2:
+    span:
+      start: 9282
+      end: 9729
+    imgnum: 26
+    reference: I3MS11630026.jpg
+  91a7e082093841348b093a3aa6d3444c:
+    span:
+      start: 9730
+      end: 10187
+    imgnum: 27
+    reference: I3MS11630027.jpg
+  f7540b3e1d924f1cb453ddf586dd1b3e:
+    span:
+      start: 10188
+      end: 10640
+    imgnum: 28
+    reference: I3MS11630028.jpg
+  77fbab0af891449ab58568aa3359928d:
+    span:
+      start: 10641
+      end: 11027
+    imgnum: 29
+    reference: I3MS11630029.jpg
+  9031a049ef6a436b8875c94ca8c8186b:
+    span:
+      start: 11028
+      end: 11454
+    imgnum: 30
+    reference: I3MS11630030.jpg
+  e37c24f77a0345c989700a4d3ad52df1:
+    span:
+      start: 11455
+      end: 11911
+    imgnum: 31
+    reference: I3MS11630031.jpg
+  55f4b440c7644e3e894641991a9e044f:
+    span:
+      start: 11912
+      end: 12366
+    imgnum: 32
+    reference: I3MS11630032.jpg
+  a972b12faa564d32b1d2a60a6acbe1a8:
+    span:
+      start: 12367
+      end: 12826
+    imgnum: 33
+    reference: I3MS11630033.jpg
+  d6438e13bc8c47f6adefe431dc19468b:
+    span:
+      start: 12827
+      end: 13036
+    imgnum: 34
+    reference: I3MS11630034.jpg
